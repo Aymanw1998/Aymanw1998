@@ -19,5 +19,5 @@
 - ⚡ Fun fact: 
   - A funny and happy person
   - A person with diabestes 1 type and also stuttering but living life
-  - I program in ecellent c, c++, c#, JAVA, Python programming
-  - I program in good HTML, CSS, JS, JQuery language
+  - I program in excellent {c, c++, c#, JAVA, Python}
+  - I program in good {HTML, CSS, JS, JQuery}
