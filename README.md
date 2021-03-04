@@ -8,8 +8,7 @@
 
 - 💬 Ask me about Anything 
 
-- 📫 How to reach me: 
-  - FaceBook: https://www.facebook.com/ayman.wahbani.37
+- 📫 How to search me?:
   - Instagram: https://www.instagram.com/aymanalwahbani1998
   - LinkedIn: www.linkedin.com/in/ayman-al-wahbani
   - Whatsapp: +972508241000
